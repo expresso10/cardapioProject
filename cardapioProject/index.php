@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo 'primeiro teste';
         echo 'segundo teste ramificação';
+        echo 'terceiro teste';
         ?>
     </body>
 </html>
